@@ -1,0 +1,15 @@
+{
+  "name": "boletoio-client-exemple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boletoio-client.js",
+  "scripts": {
+    "start": "node boletoio-client"
+  },
+  "keywords": [],
+  "author": "Isaac Vitor<isaacvitor@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^2.1.1"
+  }
+}
